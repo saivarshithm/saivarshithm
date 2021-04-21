@@ -2,7 +2,7 @@
 
 ```js
 const MSV = {
-  languages: ["Node.js"], //And so many
-  favoriteNumber: 1, //I like this number :)
-  ```
+  languages: ["Node.js"],
+  favoriteNumber: 1,
+```
  
