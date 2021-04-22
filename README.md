@@ -1,8 +1,8 @@
-## Hello, Im MSV <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
-
-```js
+## Hello Guys , Im your MSV 
+```
 const MSV = {
   languages: ["Node.js"],
-  favoriteNumber: 1,
+  Discord id : ["720218422222520410"]
+ 
 ```
  
