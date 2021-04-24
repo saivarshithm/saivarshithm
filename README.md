@@ -1,8 +1,2 @@
-## Hello Guys , Im your MSV 
-```js
-const MSV = {
-  languages: ["Node.js"],
-  Discord id : ["720218422222520410"]
- 
-```
- 
+<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-3/720218422222520410.png"> </div>
+<br>
