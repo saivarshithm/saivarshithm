@@ -21,34 +21,12 @@
 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
----
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=MSVFORYOU&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
----
-<h1 align='center'>My Stats</h1>
-
-<div align ="center">
-
-<img src="https://metrics.lecoq.io/MSVFORYOU?base.repositories=0&languages=1&isocalendar=1&followup=1">
 
 </div>
 
----
-
-### Official Team
 
 
-
-<table>
-  <tr>
-     <td align="center"><a href="https://github.com/Black-Devolopers"><img src="https://avatars.githubusercontent.com/u/84118233?s=200&v=4" width="100px;" alt=""/><br /><sub><b>Black-Devolopers</b></sub></a><br /><a href="https://github.com/Black-Devolopers" title="Black Devolopers"></a></td>
-     
-     
-  </tr>
-  
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=MSVFORYOU&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ---
 
