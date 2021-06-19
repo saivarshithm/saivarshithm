@@ -1,43 +1,42 @@
-### Hi There 👋
+## Hello!, I'm [Msv!](https://github.com/Just-Msv/)
 
-- My Name is Msv. I am 16 years Old
+<img align="right" height="128" width="128" alt="" src="https://images-ext-2.discordapp.net/external/yvnRLYNa1b2Yb6kSXZimZqz2-DMIkTUJWwqEbpeQPuA/%3Fwidth%3D427%26height%3D427/https/media.discordapp.net/attachments/855801265136599061/855859703514660924/image0.gif?width=384&height=384" />
 
-- Hobbies are Coding the bots and Reading Books
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/X3Mf8VXD9S)
+&nbsp; ![](https://komarev.com/ghpvc/?username=Just-Msv&label=Views&color=blue&style=plastic)
 
-- Fan Of the Github 😁
+### Welcome to my github repository! I'm glad to see you here!
 
-
-### Languages and Tools I Use:
-
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-
-<img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
-
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-
-<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+Hi there! My name is Msv . My age is 16 and My Birth Date was September 3,2005. I lived in the Warangal and I'm 11th year from Sri Chaitanya in Hyderabad. I code all of my bots in JS ,PY since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
 
 
-</div>
+### Languages and Tools:
+![Node.js](https://img.shields.io/badge/-nodejs-333333?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Html](https://img.shields.io/badge/-html-333333?style=flat&logo=html)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Replit](https://img.shields.io/badge/-replit-333333?style=flat&logo=replit)
 
+### ⚙️ &nbsp;GitHub Stats
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Just-Msv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="left">
+<a href="https://github.com/Just-Msv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Just-Msv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Just-Msv&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
 ---
 
+### ⚙️ My Resources & Tools:
 
-<p align="center">
-<a href="https://discord.gg/BfQQMPed6s">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-</p>
+- OS: Windows 10 / Linux
+- Server: Linux based, self-hosted
+- Laptop: DELL Inspiron 3000
+- Gaming PC: HP , CORE I3, 8GB, 16GB of RAM
+- Browser: Chrome
+- Code Editor: VSCode , Replit
+- Stay posted in my [Discord!](https://discord.gg/X3Mf8VXD9S)
 
-- Have a Nice Day
-
-**© [Msv](https://github.com/Just-Msv)**
-
+---
