@@ -36,9 +36,6 @@
 
 
 <details><summary><strong>🗲 Boosting 🗲</strong></summary>
-<br>
-<strong><a href="https://getalby.com/p/Just-Msv">sdipedit@gmail.com</a></strong> 
-<br>
 </details>
 
 <br>
