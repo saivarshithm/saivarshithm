@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+SaiVarshith!%22;%22Welcome+to+my+profile!%22" alt="Hello it's SaiVarshith" />
 
-<a href="https://github.com/Just-Msv"><img src="https://github-widgetbox.vercel.app/api/profile?username=brblacky&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Just-Msv Profile WidgetBox"></a>
+<a href="https://github.com/Just-Msv"><img src="https://github-widgetbox.vercel.app/api/profile?username=Just-Msv&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Just-Msv Profile WidgetBox"></a>
 <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,linux,bash&amp;theme=darkmode" alt="Just-Msv Skills WidgetBox">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
