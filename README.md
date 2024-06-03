@@ -18,7 +18,6 @@
 </div>
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=saivarshithm&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00ff99&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="Saivarshithm github activity graph">
 
 
 <br>
@@ -26,7 +25,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%A4%9D+Get+in+touch!+%F0%9F%A4%9D" alt="Get in touch" />
 
-<a href="mailto:saivarshith.mitukula.com"><img width="75" src="https://media3.giphy.com/media/McsUx1K5XmZJfDzaoE/giphy.gif?cid=ecf05e47qy4uuo2mv41vg1z3a8ebn3fs7o4sepnmm251ljby&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="SaiVarshith on Gmail"></a>
+<a href="mailto:saivarshith.mitukula@gmail.com"><img width="75" src="https://media3.giphy.com/media/McsUx1K5XmZJfDzaoE/giphy.gif?cid=ecf05e47qy4uuo2mv41vg1z3a8ebn3fs7o4sepnmm251ljby&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="SaiVarshith on Gmail"></a>
 <a href="https://www.instagram.com/saivarshithm/"><img width="75" src="https://media0.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif?cid=ecf05e4745aq9yp69fnp5w58gu7547fevdjyxgteo49y3ezc&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="SaiVarshith on Instagram"></a>
 
 <br>
